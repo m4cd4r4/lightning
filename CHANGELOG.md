@@ -21,6 +21,9 @@ and this project adheres to
   [#4517](https://github.com/OpenFn/lightning/pull/4517)
 - Allow users to export all collection items as a JSON file.
   [#4527](https://github.com/OpenFn/lightning/issues/4527)
+- Ability to filter work orders and runs via REST API by UUIDs or status; added
+  example curl requests to REST API docs.
+  [#4552](https://github.com/OpenFn/lightning/issues/4552)
 
 ### Changed
 
